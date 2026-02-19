@@ -61,8 +61,7 @@ This repository demonstrates my foundation in JavaScript before moving into back
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansiuuu-tech&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansiuuu-tech&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ansiuuu-tech&theme=dark&utcOffset=8)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ansiuuu-tech&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ansiuuu?theme=dark&font=Reenie%20Beanie)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ansiuuu-tech&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![LeetCode Stats](https://leetcard.jacoblin.cool/Ansiuuu?theme=dark&font=Reenie%20Beanie)
 
 
 📫 Connect with me 📬

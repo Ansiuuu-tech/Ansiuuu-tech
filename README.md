@@ -28,7 +28,6 @@ I enjoy solving data structure problems, understanding how things work internall
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-(https://github.com/alexandresanlim/Badges4-README.md-Profile).
 
 💻 Featured Projects 💻
 
@@ -95,7 +94,7 @@ Time & Space Complexity Optimization
 
 🔗 Repository: https://github.com/Ansiuuu-tech/leetcode-solutions
 
-## Get in Touch 📬
+📫 Get in Touch 📬
 
 
 - **[LinkedIn]**(https://www.linkedin.com/in/anshu-gaur-302774332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
